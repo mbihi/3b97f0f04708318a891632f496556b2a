@@ -1,3 +1,3 @@
 Bonsoir,
 
-Ceci est une implémentation de l'algorithme de bentley-ottmann.
+Ceci est une implémentation de l'algorithme de Bentley-Ottmann.
